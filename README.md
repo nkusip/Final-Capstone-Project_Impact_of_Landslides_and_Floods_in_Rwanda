@@ -42,25 +42,25 @@ Disaster data: Ministry in Charge of Emergency Management (MINEMA)
 
 Independent Variables (X):
 
-Landslide events
+* Landslide events
 
-Flood events
+* Flood events
 
 Dependent Variables (Y):
 
-Number of disaster incidents
+* Number of disaster incidents
 
-Number of deaths and injuries
+* Number of deaths and injuries
 
-Number of damaged houses
+* Number of damaged houses
 
-Agricultural losses (damaged crop area in hectares)
+* Agricultural losses (damaged crop area in hectares)
 
-Livestock losses
+* Livestock losses
 
-Environmental damage (forest destruction)
+* Environmental damage (forest destruction)
 
-Infrastructure damage (schools, health centers, roads, bridges, administrative offices, water supply systems, etc.)
+* Infrastructure damage (schools, health centers, roads, bridges, administrative offices, water supply systems, etc.)
 
 3.3 Spatial Data
 
@@ -72,59 +72,59 @@ The study employs a combination of quantitative and spatial analytical technique
 
 4.1 Data Collection and Preparation
 
-Load relevant R packages and libraries
+* Load relevant R packages and libraries
 
-Import the dataset
+* Import the dataset
 
 4.2 Data Cleaning and Descriptive Analysis
 
-Handle missing values and outliers
+* Handle missing values and outliers
 
-Generate summary statistics
+* Generate summary statistics
 
-Create frequency tables
+* Create frequency tables
 
 4.3 Exploratory Data Analysis (EDA)
 
-Line charts for trends
+* Line charts for trends
 
-Bar charts for comparisons
+* Bar charts for comparisons
 
-Pie charts for proportions
+* Pie charts for proportions
 
 4.4 Inferential Analysis
 
-Linear regression models
+* Linear regression models
 
-Poisson regression models
+* Poisson regression models
 
-Hypothesis testing
+* Hypothesis testing
 
 4.5 Spatial Analysis
 
-Mapping disaster distribution
+* Mapping disaster distribution
 
-Identifying high-risk districts using GIS
+* Identifying high-risk districts using GIS
 
 4.6 Results Interpretation
 
-Interpretation of statistical outputs
+* Interpretation of statistical outputs
 
-Drawing conclusions on landslide and flood impacts
+* Drawing conclusions on landslide and flood impacts
 
 5. Expected Outputs
    
 The study is expected to produce:
 
-Trend analysis of floods and landslides over time
+* Trend analysis of floods and landslides over time
 
-Comparative analysis of human and economic impacts
+* Comparative analysis of human and economic impacts
 
-Identification of high-risk districts
+* Identification of high-risk districts
 
-Visualizations (charts and maps) illustrating disaster patterns
+* Visualizations (charts and maps) illustrating disaster patterns
 
-Statistical models explaining key drivers of landslide and flood impacts
+* Statistical models explaining key drivers of landslide and flood impacts
 
 6. Significance of the Study
    
@@ -132,39 +132,39 @@ This study contributes to a better understanding of disaster dynamics in Rwanda 
 
 The findings are expected to support:
 
-Policymakers in improving disaster preparedness and response strategies
+* Policymakers in improving disaster preparedness and response strategies
 
-MINEMA's top management authorities in decision-making
+* MINEMA's top management authorities in decision-making
 
-Development partners in designing targeted interventions
+* Development partners in designing targeted interventions
 
-Communities in enhancing resilience and adaptation
+* Communities in enhancing resilience and adaptation
 
 7. Ethical Considerations and Limitations
    
 The study relies on secondary data, which may be subject to limitations such as:
 
-Underreporting of disaster events
+* Underreporting of disaster events
 
-Missing or incomplete data
+* Missing or incomplete data
 
 However:
 
-No personal or sensitive individual-level data is used.
+* No personal or sensitive individual-level data is used.
 
-Confidentiality is maintained
+* Confidentiality is maintained
 
-Data transparency and accuracy are prioritized
+* Data transparency and accuracy are prioritized
 
 8. Big Picture Takeaways / Future Directions
    
 The increasing occurrence of floods and landslides in Rwanda highlights the urgent need for sustainable environmental management and climate adaptation strategies. Future research could:
 
-Incorporate real-time climate data
+* Incorporate real-time climate data
 
-Apply predictive modeling techniques
+* Apply predictive modeling techniques
 
-Conduct community-level vulnerability assessments
+* Conduct community-level vulnerability assessments
 
 9. Notes for Reproducibility
     
@@ -172,8 +172,8 @@ All data processing, analysis, and visualization are conducted using the R progr
 
 To ensure reproducibility:
 
-Code is fully documented
+* Code is fully documented
 
-Analysis steps are transparent
+* Analysis steps are transparent
 
-Data and scripts (where permissible) are available in the GitHub repository
+* Data and scripts (where permissible) are available in the GitHub repository
