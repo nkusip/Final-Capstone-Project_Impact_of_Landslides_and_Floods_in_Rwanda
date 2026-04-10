@@ -1,1 +1,1 @@
-This is a project notebook that includes cleaning and analysis of landslide and flood events data. 
+This folder contains my final project notebook that includes all the codes for my data manipulation, exploration, analysis and visualisation. c
