@@ -1,6 +1,6 @@
 TOPIC: EVALUATING THE IMPACT OF NATURAL DISASTERS ON RWANDA: THE CASE OF LANDSLIDES AND FLOODS (2021–2025)
 
-Author: Placide NKUSI Email: nkusip@gmail.com Date: April 2026 
+Author: Placide NKUSI | Email: nkusip@gmail.com | Date: April 2026 
 
 1. Introduction and Background
    
