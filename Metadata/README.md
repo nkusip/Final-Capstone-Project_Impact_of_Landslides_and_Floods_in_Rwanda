@@ -1,1 +1,0 @@
-# Supporting data about landslides and floods events
