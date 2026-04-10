@@ -1,1 +1,0 @@
-Old data about landslides and floods event in Rwanda
