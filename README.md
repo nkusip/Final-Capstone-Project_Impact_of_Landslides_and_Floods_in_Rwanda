@@ -10,7 +10,7 @@ In Rwanda, the risk of natural disasters is amplified by its unique geographical
 
 Over the past decade, Rwanda has made significant efforts to strengthen disaster risk management through institutional reforms and early warning systems. However, the increasing frequency and intensity of extreme weather events highlight the need for continuous monitoring and data-driven analysis. Understanding the patterns, impacts, and spatial distribution of floods and landslides is essential for designing effective mitigation and adaptation strategies.
 
-This capstone project therefore seeks to evaluate the impact of floods and landslides in Rwanda over the period of 2021–2025. The study adopts a comprehensive analytical approach, combining descriptive statistics, inferential modeling, and spatial analysis to provide insights into disaster trends and their consequences on human populations and infrastructure.
+This capstone project therefore seeks to evaluate the impact of floods and landslides in Rwanda over the period of 2021–2025. This study adopts a comprehensive analytical approach, combining descriptive statistics, inferential modeling, and spatial analysis to provide insights into landslide and flood trends and their consequences on human populations and infrastructure.
 
 2. Research Questions
    
@@ -18,7 +18,7 @@ My study is guided by the following key research questions:
 
 1. How have landslide and flood incidents changed over the last five years in Rwanda?
 
-2. How many people have been affected, including deaths, injuries, and displacement, due to landslide and flood events?
+2. How many people have been affected, including deaths and injuries due to landslide and flood events?
 
 3. To what extent have properties and infrastructure (such as houses, schools, roads, and cultivated land) been affected? and
 
@@ -64,11 +64,11 @@ Dependent Variables (Y):
 
 3.3 Spatial Data
 
-Geographic Information System (GIS) shapefiles representing administrative boundaries (districts, sectors, and national levels) are used to support spatial analysis and mapping of disaster-prone areas.
+Administrative boundaries (districts) are used to support spatial analysis and mapping of landslide & flood-prone areas.
 
 4. Methodological Approach
    
-The study employs a combination of quantitative and spatial analytical techniques:
+The study employs a combination of quantitative and spatial analytical techniques as follow:
 
 4.1 Data Collection and Preparation
 
@@ -104,7 +104,7 @@ The study employs a combination of quantitative and spatial analytical technique
 
 * Mapping disaster distribution
 
-* Identifying high-risk districts using GIS
+* Identifying high-risk districts using R
 
 4.6 Results Interpretation
 
@@ -122,7 +122,7 @@ The study is expected to produce:
 
 * Identification of high-risk districts
 
-* Visualizations (charts and maps) illustrating disaster patterns
+* Visualizations (charts and maps) illustrating floods and landslides patterns
 
 * Statistical models explaining key drivers of landslide and flood impacts
 
