@@ -1,1 +1,1 @@
-Analysis of cleaned and processed landslided and floods events data
+This is a project notebook that includes cleaning and analysis of landslide and flood events data. 
