@@ -32,7 +32,7 @@ H₁: Landslide events significantly contribute to more death incidents than flo
 
 3. Data and Sources
    
-To address the research questions, this study utilizes a dataset containing records of disaster events data in Rwanda from 2021 to 2025.
+To address the research questions, this study utilized a dataset containing records of disaster events data in Rwanda from 2021 to 2025.
 
 3.1 Data Sources
 
@@ -43,16 +43,23 @@ Disaster data: Ministry in Charge of Emergency Management (MINEMA)
 Independent Variables (X):
 
 Landslide events
+
 Flood events
 
 Dependent Variables (Y):
 
 Number of disaster incidents
+
 Number of deaths and injuries
+
 Number of damaged houses
+
 Agricultural losses (damaged crop area in hectares)
+
 Livestock losses
+
 Environmental damage (forest destruction)
+
 Infrastructure damage (schools, health centers, roads, bridges, administrative offices, water supply systems, etc.)
 
 3.3 Spatial Data
@@ -66,29 +73,37 @@ The study employs a combination of quantitative and spatial analytical technique
 4.1 Data Collection and Preparation
 
 Load relevant R packages and libraries
+
 Import the dataset
 
 4.2 Data Cleaning and Descriptive Analysis
 
 Handle missing values and outliers
+
 Generate summary statistics
+
 Create frequency tables
 
 4.3 Exploratory Data Analysis (EDA)
 
 Line charts for trends
+
 Bar charts for comparisons
+
 Pie charts for proportions
 
 4.4 Inferential Analysis
 
 Linear regression models
+
 Poisson regression models
+
 Hypothesis testing
 
 4.5 Spatial Analysis
 
 Mapping disaster distribution
+
 Identifying high-risk districts using GIS
 
 4.6 Results Interpretation
@@ -102,9 +117,13 @@ Drawing conclusions on landslide and flood impacts
 The study is expected to produce:
 
 Trend analysis of floods and landslides over time
+
 Comparative analysis of human and economic impacts
+
 Identification of high-risk districts
+
 Visualizations (charts and maps) illustrating disaster patterns
+
 Statistical models explaining key drivers of landslide and flood impacts
 
 6. Significance of the Study
@@ -115,7 +134,7 @@ The findings are expected to support:
 
 Policymakers in improving disaster preparedness and response strategies
 
-Disaster management authorities in decision-making
+MINEMA's top management authorities in decision-making
 
 Development partners in designing targeted interventions
 
